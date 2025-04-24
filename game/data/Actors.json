@@ -1,0 +1,8 @@
+[
+null,
+{"id":1,"battlerName":"Actor1_6","characterIndex":5,"characterName":"Actor1","classId":6,"equips":[2,0,0,3,0],"faceIndex":5,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Rose","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"custom1_bat","characterIndex":1,"characterName":"custom1_dam","classId":6,"equips":[5,30,57,13,82],"faceIndex":0,"faceName":"custom1_face","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aristi Coppersun","nickname":"Ari","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":0,"characterName":"Nature_mv","classId":9,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"Nature_mv","traits":[],"initialLevel":1,"maxLevel":99,"name":"Buttadawg","nickname":"B-Dawg","note":"","profile":""},
+{"id":4,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""},
+{"id":5,"battlerName":"","characterIndex":0,"characterName":"","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"","nickname":"","note":"","profile":""}
+]
