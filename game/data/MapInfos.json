@@ -13,7 +13,7 @@ null,
 {"id":11,"expanded":false,"name":"bosspass","order":12,"parentId":6,"scrollX":1200,"scrollY":482.5,"quick":false},
 {"id":12,"expanded":false,"name":"bpassdungeon","order":14,"parentId":7,"scrollX":802,"scrollY":1296.5,"quick":false},
 {"id":13,"expanded":false,"name":"forest","order":15,"parentId":0,"scrollX":816,"scrollY":624.5,"quick":false},
-{"id":14,"expanded":false,"name":"town","order":16,"parentId":0,"scrollX":1749.818181818182,"scrollY":978.5454545454546,"quick":false},
+{"id":14,"expanded":false,"name":"town","order":16,"parentId":0,"scrollX":802,"scrollY":440.5,"quick":false},
 {"id":15,"expanded":false,"name":"beach","order":1,"parentId":0,"scrollX":802,"scrollY":471.5,"quick":false},
 {"id":16,"expanded":false,"name":"dock","order":2,"parentId":15,"scrollX":811,"scrollY":449.5,"quick":false}
 ]
